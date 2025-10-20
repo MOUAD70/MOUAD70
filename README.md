@@ -70,5 +70,6 @@ My focus is on writing **clean code**, designing **intuitive interfaces**, and b
 ---
 
 <p align="center">
-  <i>“The best code is the one that makes someone else say — that’s exactly how I would’ve written it.”</i>
+  <img src="https://github.com/MOUAD70/MOUAD70/blob/main/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif?raw=true" alt="Mouad GIF" width="400" />
 </p>
+
