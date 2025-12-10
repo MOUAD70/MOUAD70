@@ -1,19 +1,14 @@
 <h1>👋 Hey, I'm Mouad</h1>
 
 
-**`Full-Stack Web Developer | Crafting Reliable & Scalable Applications`**
+**`Full-Stack Web Developer | ReactJS | Laravel | TailwindCSS | MySQL`**
 
 ---
 
 ### 🧠 About Me
 
 I'm **Mounjib Mouad**, a **Full-Stack Web Developer** driven by the idea that great software should be both **elegant and efficient**.  
-I enjoy turning complex ideas into smooth, functional, and secure web applications.  
 My focus is on writing **clean code**, designing **intuitive interfaces**, and building **systems that last**.
-
-- ⚙️ I love working across the full stack — **React**, **Laravel**, **Node.js**, and **MySQL/MongoDB**.  
-- 🧩 Currently exploring **new technologies** and **real-time web experiences**.  
-- ☕ Fueled by clean design, deep work, and a good cup of coffee.
 
 ---
 
