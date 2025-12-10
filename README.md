@@ -50,7 +50,7 @@ My focus is on writing **clean code**, designing **intuitive interfaces**, and b
 ### 🌐 Connect With Me
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/#" target="_blank">
+  <a href="https://www.linkedin.com/in/mouad-mounjib-899251345/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mounjibmouad@gmail.com" target="_blank">
