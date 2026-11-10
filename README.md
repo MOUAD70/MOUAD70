@@ -23,19 +23,25 @@ My focus is on writing **clean code**, designing **intuitive interfaces**, and b
 <p>
   <!-- Front-end Frameworks / Libraries -->
   <b>Front-end:</b></br></br>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap&theme=dark" />
 </p>
 
 <p>
   <!-- Back-end Frameworks / Libraries -->
   <b>Back-end:</b></br></br>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express&theme=dark" />
 </p>
 
 <p>
   <!-- Databases -->
   <b>Databases:</b></br></br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+</p>
+
+<p>
+  <!-- Back-end Frameworks / Libraries -->
+  <b>DevOps:</b></br></br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab&theme=dark" />
 </p>
 
 <p>
